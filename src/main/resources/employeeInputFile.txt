@@ -1,0 +1,4 @@
+FirstName,LastName,Age,Role,Hobby
+Joseph,Sam,40,Developer,Cricket
+John,Petter,25,Automation,gardening
+Sampress,Paul,35,Business Analyst,bowling with friends
